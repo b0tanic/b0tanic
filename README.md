@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Arsen, java developer
-- 👀 I’m interested in highload services
+- 👀 I’m interested in highload services and building architecture
 - 🌱 I’m currently learning Python
 - 📫 Telegram: @b0tanic
      mail: arso94@yandex.ru 
