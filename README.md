@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Arsen, java developer
+- 👋 Hi, I’m Arsen, a backend developer
 - 👀 I’m interested in highload services and building architecture
-- 🌱 I’m currently learning Python
+- 🌱 I am willing to relocate to the US/Canada/Netherlands
 - 📫 Telegram: @b0tanic
      mail: arso94@yandex.ru 
 
